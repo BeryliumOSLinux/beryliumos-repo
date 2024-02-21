@@ -1,0 +1,81 @@
+Package: battmon
+Version: 1.0b
+Architecture: amd64
+Essential: yes
+Maintainer: KnuxBoy04 <jaynowak76@gmail.com>
+Installed-Size: 40
+Filename: ./battmon_1.0b_amd64.deb
+Size: 5130
+MD5sum: ae1c74f980f8391ae26b23b7d7d8928f
+SHA1: bc7e714444ce6bbf3eb9c244290e7713d617d0c1
+SHA256: 9cb00a3b421d74ba68526a397acd473b4edacccd79c959abcb9cd2e391590322
+Priority: required
+Description: battmon
+ battmon - a battery monitering applet/script for BeryliumOS
+
+Package: beryliumos-assets
+Version: 1.4b
+Architecture: amd64
+Essential: yes
+Maintainer: KnuxBoy04 <jaynowak76@gmail.com>
+Installed-Size: 442464
+Depends: beryliumos-meta (>=1.0b)
+Filename: ./beryliumos-assets_1.4b_amd64.deb
+Size: 21730
+MD5sum: ece03ce4fa0dd3adf279182cba976a28
+SHA1: 940c55f069b8e194065bf252437824fe4520e139
+SHA256: 9a44963c9f5ee199fcde3616bae80816e45dc96a8c32356ffa049aefa7d0f057
+Section: otherosfs
+Priority: required
+Description: BeryliumOS asset package
+ BeryliumOS asset package
+
+Package: beryliumos-brosh
+Version: 1.1b
+Architecture: amd64
+Essential: yes
+Maintainer: KnuxBoy04 <jaynowak76@gmail.com>
+Installed-Size: 24
+Depends: beryliumos-scripts (>=1.2b)
+Filename: ./beryliumos-brosh_1.1b_amd64.deb
+Size: 1392
+MD5sum: e258cd754fa3bd656c2bd3410bf44f56
+SHA1: 2e2aea321d1a6843e4df379efdcf5d43ba8d96bf
+SHA256: 17f539caf08e59c5c33e74432dd53cc5eb3bf14e9f5e1bcc94a3431ceeaa075a
+Section: admin
+Priority: important
+Description: brosh - the BeryliumOS shell
+ brosh is a ChromeOS crosh like shell for BeryliumOS
+
+Package: beryliumos-meta
+Version: 1.0b
+Architecture: all
+Essential: yes
+Maintainer: KnuxBoy04 <jaynowak76@gmail.com>
+Installed-Size: 40
+Filename: ./beryliumos-meta_1.0b_all.deb
+Size: 832
+MD5sum: b7263df561ef562fc1674e8bcf14e6e1
+SHA1: f59fd083b3c41afa08288d06b9d3fd9b5181f06d
+SHA256: a6f4f52db818059a6133ca426cbe0108529fc22579c49e1bdd129b5df8fe208d
+Section: metapackages
+Priority: required
+Description: BeryliumOS meta package
+ BeryliumOS meta package
+
+Package: beryliumos-scripts
+Version: 1.2b
+Architecture: amd64
+Essential: yes
+Maintainer: Knuxboy04 <jaynowak76@gmail.com>
+Installed-Size: 68
+Filename: ./beryliumos-scripts_1.2b_amd64.deb
+Size: 7508
+MD5sum: da7b62e611c0510e8eb6985c49b81fa5
+SHA1: 44ca53aa15c7def9242233189e5f2287922b4a73
+SHA256: f6ce53bc2fe6573bb366f85b6588b2f39c534461a8cef88be41ae2034677a340
+Section: otherosfs
+Priority: required
+Description: Scripts for beryliumos
+ Scripts for beryliumos
+

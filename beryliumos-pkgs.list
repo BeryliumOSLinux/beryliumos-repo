@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/beryliumos-key.gpg] https://github.com/JayBoyAdvance/beryliumos-repo/
+deb [signed-by=/etc/apt/trusted.gpg.d/KEY.gpg] https://github.com/JayBoyAdvance/beryliumos-repo/

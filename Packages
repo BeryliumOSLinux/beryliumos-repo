@@ -13,6 +13,23 @@ Priority: required
 Description: battmon
  battmon - a battery monitering applet/script for BeryliumOS
 
+Package: beryliumos-assets
+Version: 1.2b
+Architecture: amd64
+Essential: yes
+Maintainer: KnuxBoy04 <jaynowak76@gmail.com>
+Installed-Size: 97920
+Depends: beryliumos-meta (>=1.0b)
+Filename: ./beryliumos-assets_1.2b_amd64.deb
+Size: 94391074
+MD5sum: 12148ea71c24820df21bc4f40b20664c
+SHA1: 6b3b70baf238233ca0b6060a30081fadaad0ce9b
+SHA256: 1be615e509ea0defc97af169aa64d5abceb640c281d8ea91690d27f83578522a
+Section: otherosfs
+Priority: required
+Description: BeryliumOS asset package
+ BeryliumOS asset package
+
 Package: beryliumos-brosh
 Version: 1.1b
 Architecture: amd64
